@@ -14,3 +14,4 @@ Katas repository for the class "Tendencias en desarrollo de Aplicaciones" from I
 
 - [Video 1](https://youtu.be/kAIz3Eu_ssw)
 - [Video 2](https://youtu.be/OaaXwcfvq7s)
+- [Video 3](https://youtu.be/2O88fxxp_yM)
