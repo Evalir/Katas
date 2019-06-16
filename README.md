@@ -19,3 +19,4 @@ Katas repository for the class "Tendencias en desarrollo de Aplicaciones" from I
 ### Semana 3
 
 - [Video 1](https://youtu.be/2i3zH5AUOG4)
+- [Video 2](https://youtu.be/ZPOhsksYkBs)
